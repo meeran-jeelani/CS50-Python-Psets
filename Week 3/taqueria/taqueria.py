@@ -1,7 +1,3 @@
-# Source - https://stackoverflow.com/a
-# Posted by Nelsangels, modified by community. See post 'Timeline' for change history
-# Retrieved 2026-01-22, License - CC BY-SA 4.0
-
 def main():
     total_cost("Item: ")
 
