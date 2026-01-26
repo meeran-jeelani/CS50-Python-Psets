@@ -3,3 +3,4 @@ message = input()
 variable = message.replace(" ","...")
 #printing output
 print(variable)
+
