@@ -11,6 +11,5 @@ def count(s):
     if match:
         return(len(match))
 
-
 if __name__ == "__main__":
     main()
