@@ -9,6 +9,5 @@ def parse(s):
     else:
         return None
 
-
 if __name__ == "__main__":
     main()
