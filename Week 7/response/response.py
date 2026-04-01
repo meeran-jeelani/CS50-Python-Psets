@@ -8,4 +8,3 @@ def validate(s):
         return f"Invalid"
 if __name__ == "__main__":
     main()
-
