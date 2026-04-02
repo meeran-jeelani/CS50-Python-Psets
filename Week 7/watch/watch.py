@@ -1,4 +1,5 @@
 import re
+
 def main():
     print(parse(input("HTML: ")))
 def parse(s):
@@ -6,6 +7,7 @@ def parse(s):
         return f"https://youtu.be/{link.group(2)}"
     else:
         return None
+    
 if __name__ == "__main__":
     main()
 
